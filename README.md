@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Yoman!!</h1>
+<h1 data-importer="text" align="center">Yo!!</h1>
 
 ###
 
